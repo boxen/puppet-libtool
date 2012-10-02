@@ -1,4 +1,7 @@
-# Puppet libtool for Boxen
+# LibTool Puppet Module for Boxen
 
-FIXME: update me bro
+## Usage
 
+```puppet
+include libtool
+```
