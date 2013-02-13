@@ -5,3 +5,9 @@
 ```puppet
 include libtool
 ```
+
+## Required Puppet Modules
+
+* boxen
+* homebrew
+* stdlib
